@@ -1,17 +1,19 @@
-# Hi there 👋, I'm Ahmadshoh!
+# Hi, I'm Ahmadshoh 👋
 
-## 📊 GitHub Statistics
+CS student at **TUIT** from Uzbekistan, learning backend development with Python.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadshoh-vs&show_icons=true&theme=tokyonight&hide_border=true)
+- 🎓 Studying Information Technologies at Tashkent University of Information Technologies
+- 🌱 Currently learning: Python, SQL,  backend fundamentals
+- 🧩 Solving algorithm problems on [LeetCode](https://leetcode.com/u/ahmadshoh/)
+- 📫 Reach me on [Telegram](https://t.me/ahmadshohvs)
 
-## 💻 Most Used Languages
+## 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshoh-vs&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔥 GitHub Streak
+## 🌐 Connect
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadshoh-vs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadshoh-vs&theme=tokyo-night)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmadshohvs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahmadshoh/)
