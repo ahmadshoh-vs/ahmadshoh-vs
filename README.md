@@ -7,6 +7,11 @@ CS student at **TUIT** from Uzbekistan, learning backend development with Python
 - 🧩 Solving algorithm problems on [LeetCode](https://leetcode.com/u/ahmadshoh/)
 - 📫 Reach me on [Telegram](https://t.me/ahmadshohvs)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadshoh-vs/ahmadshoh-vs/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ahmadshoh-vs/ahmadshoh-vs/output/github-snake.svg" />
+</picture>
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
